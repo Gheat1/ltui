@@ -11,3 +11,13 @@ pipx install "git+https://github.com/runpantheon/ltui#subdirectory=ltui"
 
 Originally built here by [@Gheat1](https://github.com/Gheat1) — stars,
 issues, and history all traveled with the move.
+
+## ⭐ star history
+
+The stars this repo earned live on at the new home:
+
+<div align="center">
+<a href="https://github.com/runpantheon/ltui">
+<img src="https://raw.githubusercontent.com/runpantheon/ltui/main/assets/star-history-mocha.svg" alt="star history of runpantheon/ltui" width="80%">
+</a>
+</div>
